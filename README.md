@@ -1,4 +1,14 @@
-# frontend
+# Login Vue3 Router4 Bootstrap5 SASS-loader
+
+<p align="center">
+    <img src="https://img.shields.io/badge/vue-%5E3.2.13-green" alt="vue">
+    <img src="https://img.shields.io/badge/vue--router-%5E4.0.3-green" alt="element-ui">
+    <img src="https://img.shields.io/badge/licence-MIT-yellowgreen" alt="Estado de Construcción">
+    <a href="https://www.buymeacoffee.com/tellyscasto" title="buy me a cooffe">
+    <img src="https://img.shields.io/badge/%24-donate-orange" alt="buy me a cooffe">
+    </a>
+    
+</p>
 
 ## Project setup
 ```
