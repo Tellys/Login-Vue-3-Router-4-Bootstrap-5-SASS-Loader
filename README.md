@@ -29,6 +29,7 @@ npm run build
 ```
 npm run lint
 ```
+<img src="https://raw.githubusercontent.com/Tellys/Login-Vue-3-Router-4-Bootstrap-5-SASS-Loader/main/anigif.gif" alt="Animation System">
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
